@@ -14,9 +14,9 @@ const Contact = () => {
 
         <div className='flex flex-col items-start justify-center gap-6' >
           <p className='font-semibold text-gray-600 text-lg'>OUR OFFICE</p>
-          <p className='text-gray-500 '>54709 Willms Station <br />Suite 350, Washington, USA</p>
+          <p className='text-gray-500 '>58/26 B Block <br />Suite 350, Mumbai,India</p>
 
-          <p className='text-gray-500 '>Tel: 9368xxxxxx <br />Email: rkatara@gmail.com</p>
+          <p className='text-gray-500 '>Tel: 9368xxxxxx <br />Email: docto24x7@gmail.com</p>
           <p className='font-semibold text-gray-600 text-lg '>Careers at DOCTO 24x7</p>
           <p className='text-gray-500'>Learn more about our teams and job openings.</p>
           <button className='border border-black px-8 py-4 text-sm hover:bg-black hover:text-white transition-all duration-500'>Explore Jobs</button>

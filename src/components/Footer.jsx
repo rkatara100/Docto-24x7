@@ -22,13 +22,14 @@ const Footer = () => {
                               </ul>
                         </div>
 
+
                         {/* ----------------Right----------------------- */}
                         <div>
                               <p className='text-xl font-medium mb-5 '>GET IN TOUCH</p>
 
                               <ul className='flex flex-col gap-2 text-gray-600'>
                                     <li>+91 938XXXXX</li>
-                                    <li>rkatara@gmail.com</li>
+                                    <li>docto24x7@gmail.com</li>
                               </ul>
 
                         </div>
